@@ -1,0 +1,94 @@
+body{
+	background-color: black;
+}
+
+img{
+	width: 600px;
+}
+
+.main{
+	background-color: white;
+	width: 600px;
+	height: 800px;
+	margin:100px auto;
+
+}
+
+.header{
+	overflow: hidden;
+}
+
+.fa-html5{
+	font-size: 40px;
+	margin:20px 20px;
+	float: left;
+}
+
+.fa-ellipsis-v{
+	font-size: 40px;
+	float: right;
+	margin: 30px 30px;
+}
+
+.header p{
+	width: 50%;
+	margin-top: 30px;
+	display: inline-block;
+	font-weight: bold;
+	font-family: arial;
+
+}
+
+.fa-heart{
+	font-size: 30px;
+	margin: 30px 5px 5px 30px
+}
+
+.fa-heart:hover{
+	color: red;
+	cursor: pointer;
+}
+
+.fa-comment{
+	font-size: 30px;
+	margin: 30px 5px 5px 5px
+}
+
+.fa-comment:hover{
+	color:#4776FD;
+	cursor: pointer;
+}
+
+
+.fa-paper-plane{
+	font-size: 30px;
+	margin: 30px 5px 5px 5px
+}
+
+.fa-paper-plane:hover{
+	color: #53FF5F;
+	cursor: pointer;
+}
+
+
+.fa-bookmark{
+	font-size: 30px;
+	float: right;
+	margin: 30px 30px 5px 5px
+}
+
+.fa-bookmark:hover{
+	color: #C0C208;
+	cursor: pointer;
+}
+
+.text p{
+	margin:30px 20px 10px 20px;
+	text-align: justify;
+	font-family: arial;
+}
+
+.text p:first-child{
+	font-weight: bold;
+	font-size: 20px;
+}
